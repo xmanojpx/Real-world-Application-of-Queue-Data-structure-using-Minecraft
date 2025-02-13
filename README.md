@@ -1,6 +1,5 @@
-Project Title: Real-world Application of Queue Data Structure using Minecraft — Rail Track Delivery System
+Real-world Application of Queue Data Structure using Minecraft — Rail Track Delivery System
 
-Description:
 This project demonstrates the practical implementation of a First-In-First-Out (FIFO) queue data structure within Minecraft, creating an automated Rail Track Delivery System for efficient item transportation. Leveraging Minecraft mechanics like hoppers, minecarts, and Redstone logic, the system ensures items are collected, processed, and delivered in strict order, mirroring real-world queue operations.
 
 Key Features:
