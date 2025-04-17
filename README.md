@@ -74,7 +74,7 @@ Launch Minecraft and watch your items queue up!
 
 ```bash
 
-git clone https://github.com/yourusername/minecraft-queue-system.git
+git clone https://github.com/xmanojpx/minecraft-queue-system.git
 ```
 
 ## 👾 Tags
